@@ -1,0 +1,11 @@
+What's the category with the highest cost?
+
+Create a text-based bar chart showing cost by category
+
+What's the standard deviation of cost?
+
+add a new cost: Gifts, 1100
+
+Show me the current expenses and breakdowns
+
+quit
