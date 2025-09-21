@@ -1,0 +1,5 @@
+I have a technical problem
+
+alex@contoso.com. When I tried to load MS dynamics report for enterprise commercial sales numbers, the report shows no data.
+
+quit

@@ -1,0 +1,4 @@
+date,description,amount
+Mar-07-2025,taxi,$24.00
+Mar-07-2025,dinner,$65.50
+Mar-07-2025,hotel,$375.90

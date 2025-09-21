@@ -1,0 +1,21 @@
+### for client.py
+===========================
+
+Give me the Azure CLI commands to create an Azure Container App with a managed identity.
+
+Explain the difference between API Management and Semantic Kernel.
+
+Explain the difference between Azure App Services, Azure Container Apps and Azure Kubernetes Services
+
+List all available mcp tools that I can use
+
+Create a new client named Jason Huckleberry
+
+
+### for client-apic.py
+===========================
+
+List all available mcp tools that I can use
+
+Create a new client named Jason Huckleberry
+

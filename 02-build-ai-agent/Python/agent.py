@@ -1,6 +1,9 @@
 # Note: Lab Completed 9/17/2025
 # Instruction: https://github.com/MicrosoftLearning/mslearn-ai-agents/blob/main/Instructions/02-build-ai-agent.md
-# Use Code Interpreter in an AI agent
+# Use [Azure AI Agent Service] to create a simple agent.
+# The agent uses the * built-in Code Interpreter tool* to dynamically 
+# generate any code required to analyze data.
+
 import os
 from dotenv import load_dotenv
 from typing import Any
