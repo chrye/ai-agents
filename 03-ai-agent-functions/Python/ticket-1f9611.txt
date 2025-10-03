@@ -1,0 +1,4 @@
+Support ticket: 1f9611
+Submitted by: alex@contoso.com
+Description:
+When I tried to load MS Dynamics report for enterprise commercial sales numbers, the report shows no data.

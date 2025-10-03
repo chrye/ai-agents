@@ -7,4 +7,3 @@ pip install -r requirements.txt --pre azure-ai-projects mcp
 
 python client.py
 
-#python client-apic.py

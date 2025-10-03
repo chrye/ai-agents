@@ -154,7 +154,7 @@ with agents_client:
         content=prompt,
     )   
 
-    # Run the thread usng the primary agent
+    # Run the thread using the primary agent
     print("\nProcessing agent thread. Please wait.")
     run = agents_client.runs.create_and_process(thread_id=thread.id, agent_id=triage_agent.id)
         

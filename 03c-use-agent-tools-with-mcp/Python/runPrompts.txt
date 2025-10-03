@@ -12,10 +12,3 @@ List all available mcp tools that I can use
 Create a new client named Jason Huckleberry
 
 
-### for client-apic.py
-===========================
-
-List all available mcp tools that I can use
-
-Create a new client named Jason Huckleberry
-
